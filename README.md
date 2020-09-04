@@ -12,11 +12,14 @@ Using concepts of state, effect, props and styled-components.
 
 ## Preview
 
-# Home
+**_Home_**
 ![](/src/assets/home.png)
 
-# Repositories
+**_Repositories_**
 ![](/src/assets/repositories.png)
+
+
+made by :two_hearts: _Pri Pinheiro_
 
 
 
