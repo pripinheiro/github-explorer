@@ -1,8 +1,8 @@
-###Github explorer
+### Github explorer
 
 Developed to explore repositories, [click here](https://github-explorer-weld.vercel.app/) to view the project.
 
-##Goal 
+## Goal 
 
 Project created to study ReactJS.
 
@@ -10,12 +10,12 @@ _ReactJS and typescript used_
 
 Using concepts of state, effect, props and styled-components.
 
-##Preview
+## Preview
 
-#Home
+# Home
 ![](/src/assets/home.png)
 
-#Repositories
+# Repositories
 ![](/src/assets/repositories.png)
 
 
