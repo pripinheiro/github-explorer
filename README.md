@@ -1,4 +1,4 @@
-### Github explorer
+# Github explorer
 
 Developed to explore repositories, [click here](https://github-explorer-weld.vercel.app/) to view the project.
 
