@@ -69,7 +69,7 @@ const Dashboard: React.FC = () => {
         <input
           value={newRepo}
           onChange={e => setNewRepo(e.target.value)}
-          placeholder="Digite aqui o nome do repositório"
+          placeholder="Digite aqui o username/nome-do-repositorio"
         />
         <button type="submit">Pesquisar</button>
       </Form>
